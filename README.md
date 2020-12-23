@@ -1,1 +1,1 @@
-# samra
+# Internet technologies
